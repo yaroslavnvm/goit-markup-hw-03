@@ -1,0 +1,41 @@
+.header {
+  background-color: #fff;
+}
+.logo {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.33333;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #2e2f42;
+}
+.main-nav {
+}
+.main-nav-list {
+}
+.main-nav-item {
+}
+.main-nav-link {
+  font-weight: 500;
+  color: #2e2f42;
+}
+.main-nav-link:hover,
+.main-nav-link:focus,
+.main-nav-link:active {
+  color: #404bbf;
+}
+
+.address-link:hover,
+.address-link:focus {
+  color: #404bbf;
+}
+
+.address {
+}
+.address-list {
+}
+.address-item {
+}
+.address-link {
+}
