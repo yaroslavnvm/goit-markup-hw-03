@@ -34,6 +34,8 @@
   display: flex;
   font-weight: 500;
   color: #2e2f42;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 .main-nav-link:hover,
 .main-nav-link:focus,
