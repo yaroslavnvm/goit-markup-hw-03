@@ -14,7 +14,7 @@
   gap: 24px;
 }
 .features-item {
-  max-width: 264px;
+  width: 264px;
 }
 .features-name {
   margin-bottom: 8px;
