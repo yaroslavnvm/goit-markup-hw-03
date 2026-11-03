@@ -1,5 +1,7 @@
 .features {
   background-color: #fff;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 
 .features > .container {
@@ -11,10 +13,10 @@
 }
 .features-list {
   display: flex;
-  justify-content: center;
-  gap: 28px;
+  gap: 24px;
 }
 .features-item {
+  max-width: 264px;
 }
 .features-name {
   margin-bottom: 8px;

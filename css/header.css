@@ -1,5 +1,6 @@
 .header {
   background-color: #fff;
+  border-bottom: 1px solid #e7e9fc;
 }
 
 .header > .container {
@@ -10,7 +11,6 @@
 .logo {
   display: inline-flex;
   padding-bottom: 24px;
-  width: 115px;
   padding-top: 24px;
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
@@ -31,6 +31,7 @@
 .main-nav-item {
 }
 .main-nav-link {
+  display: flex;
   font-weight: 500;
   color: #2e2f42;
 }
@@ -54,4 +55,6 @@
 .address-item {
 }
 .address-link {
+  padding-top: 24px;
+  padding-bottom: 24px;
 }

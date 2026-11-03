@@ -1,10 +1,10 @@
 .team {
   background-color: #f4f4fd;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 
 .team > .container {
-  padding-top: 120px;
-  padding-bottom: 120px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
@@ -23,7 +23,6 @@
   background-color: #fff;
   border-radius: 0 0 4px 4px;
   width: 264px;
-  height: 380px;
   box-shadow:
     0 2px 1px 0 rgba(46, 47, 66, 0.08),
     0 1px 1px 0 rgba(46, 47, 66, 0.16),
@@ -55,6 +54,4 @@
   flex-direction: column;
   gap: 8px;
   padding: 32px 16px;
-  width: 264px;
-  height: 120px;
 }

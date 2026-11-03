@@ -1,6 +1,6 @@
 .hero {
   background-color: #2e2f42;
-  border: 1px solid #000;
+  padding: 188px 0px;
 }
 
 .hero-wrapper {
@@ -9,7 +9,6 @@
   align-items: center;
   justify-content: center;
   gap: 48px;
-  padding: 188px 0px;
 }
 
 .hero-title {
