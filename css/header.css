@@ -1,7 +1,17 @@
 .header {
   background-color: #fff;
 }
+
+.header > .container {
+  display: flex;
+  align-items: center;
+}
+
 .logo {
+  display: inline-flex;
+  padding-bottom: 24px;
+  width: 115px;
+  padding-top: 24px;
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -11,8 +21,12 @@
   color: #2e2f42;
 }
 .main-nav {
+  margin-left: 76px;
+  margin-right: auto;
 }
 .main-nav-list {
+  display: flex;
+  gap: 40px;
 }
 .main-nav-item {
 }
@@ -34,6 +48,8 @@
 .address {
 }
 .address-list {
+  display: flex;
+  gap: 40px;
 }
 .address-item {
 }
